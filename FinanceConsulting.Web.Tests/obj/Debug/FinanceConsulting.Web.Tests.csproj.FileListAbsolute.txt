@@ -1,0 +1,8 @@
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\bin\Debug\FinanceConsulting.Web.Tests.dll.config
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\bin\Debug\FinanceConsulting.Web.Tests.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\bin\Debug\FinanceConsulting.Web.Tests.pdb
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\bin\Debug\FinanceConsulting.Web.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\bin\Debug\FinanceConsulting.Web.pdb
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\obj\Debug\FinanceConsulting.Web.Tests.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web.Tests\obj\Debug\FinanceConsulting.Web.Tests.pdb

@@ -1,0 +1,7 @@
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\bin\FinanceConsulting.Web.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\bin\FinanceConsulting.Web.pdb
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\bin\EntityFramework.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\bin\EntityFramework.xml
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\obj\Debug\FinanceConsulting.Web.dll
+c:\users\christoph\documents\Projects\FinanceConsulting\FinanceConsulting.Web\obj\Debug\FinanceConsulting.Web.pdb
